@@ -1,0 +1,11 @@
+/Users/olhaborbich/Documents/olha/development/MoviesLibrary/Movies.Contracts/bin/Debug/net7.0/Movies.Contracts.deps.json
+/Users/olhaborbich/Documents/olha/development/MoviesLibrary/Movies.Contracts/bin/Debug/net7.0/Movies.Contracts.dll
+/Users/olhaborbich/Documents/olha/development/MoviesLibrary/Movies.Contracts/bin/Debug/net7.0/Movies.Contracts.pdb
+/Users/olhaborbich/Documents/olha/development/MoviesLibrary/Movies.Contracts/obj/Debug/net7.0/Movies.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olhaborbich/Documents/olha/development/MoviesLibrary/Movies.Contracts/obj/Debug/net7.0/Movies.Contracts.AssemblyInfoInputs.cache
+/Users/olhaborbich/Documents/olha/development/MoviesLibrary/Movies.Contracts/obj/Debug/net7.0/Movies.Contracts.AssemblyInfo.cs
+/Users/olhaborbich/Documents/olha/development/MoviesLibrary/Movies.Contracts/obj/Debug/net7.0/Movies.Contracts.csproj.CoreCompileInputs.cache
+/Users/olhaborbich/Documents/olha/development/MoviesLibrary/Movies.Contracts/obj/Debug/net7.0/Movies.Contracts.dll
+/Users/olhaborbich/Documents/olha/development/MoviesLibrary/Movies.Contracts/obj/Debug/net7.0/refint/Movies.Contracts.dll
+/Users/olhaborbich/Documents/olha/development/MoviesLibrary/Movies.Contracts/obj/Debug/net7.0/Movies.Contracts.pdb
+/Users/olhaborbich/Documents/olha/development/MoviesLibrary/Movies.Contracts/obj/Debug/net7.0/ref/Movies.Contracts.dll

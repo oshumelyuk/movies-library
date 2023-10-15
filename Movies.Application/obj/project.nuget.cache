@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bIuitTFQRHuOnqfqKTCwLT9bxD1Rc4VMsiCC0zyGEo/1Aez2zDGuj6Up9jqSb2xJjZQRNOW42NgCaH6KtDZDDQ==",
+  "success": true,
+  "projectFilePath": "/Users/olhaborbich/Documents/olha/development/MoviesLibrary/Movies.Application/Movies.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/olhaborbich/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0-rc.2.23479.6/microsoft.extensions.dependencyinjection.abstractions.8.0.0-rc.2.23479.6.nupkg.sha512"
+  ],
+  "logs": []
+}
